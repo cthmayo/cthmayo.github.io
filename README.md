@@ -4,7 +4,7 @@ A compilation of notebooks for a number of data science and AI-related side proj
 
 ## Medical Projects
 
-###[RANZCR CLiP - Catheter and Line Position Challenge](https://github.com/cthmayo/line-placement/blob/main/Line_Position.ipynb)
+### [RANZCR CLiP - Catheter and Line Position Challenge](https://github.com/cthmayo/line-placement/blob/main/Line_Position.ipynb)
 
 This was my entry into the [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification), which involved the detection of the presence of number of different types of lines and catheters on chest X-rays. I evaluated a series of different machine learning methods, eventually choosing an EfficientNetB0 CNN. My Kaggle entry is [here](https://www.kaggle.com/cthmayo/efficientnetb0-inference).
 
