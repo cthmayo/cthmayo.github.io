@@ -4,6 +4,10 @@ A compilation of notebooks for a number of data science and AI-related side proj
 
 ## Medical Projects
 
+### [COVID-19 Cough Diagnosis](https://github.com/cthmayo/cough-diagosis/blob/main/COVID_Cough.ipynb)
+
+This used a 1D CNN in order to diagnose COVID-19 from a small dataset of cough samples, sourced from [Kaggle](https://www.kaggle.com/himanshu007121/coughclassifier-trial/code).
+
 ### [RANZCR CLiP - Catheter and Line Position Challenge](https://github.com/cthmayo/line-placement/blob/main/Line_Position.ipynb)
 
 This was my entry into the [RANZCR CLiP - Catheter and Line Position Challenge](https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification), which involved the detection of the presence of number of different types of lines and catheters on chest X-rays. I evaluated a series of different machine learning methods, eventually choosing an EfficientNetB0 CNN. My Kaggle entry is [here](https://www.kaggle.com/cthmayo/efficientnetb0-inference).
