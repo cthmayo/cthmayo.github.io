@@ -26,7 +26,7 @@ short_bio: >-
     of Cambridge.
   </p>
   <p>
-    My research interests multimodal machine learning, risk prediction,
+    My research interests include multimodal machine learning, risk prediction,
     causal machine learning, and signal/image processing for healthcare.
   </p>
 
@@ -41,7 +41,7 @@ education:
     date: "2025 - 2026"
 
   - name: "University of Auckland"
-   logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/MIT_Social_circle.png
     position: >-
       Bachelor of Medicine and Bachelor of Surgery (MBChB)
     date: "2017 - 2022"
