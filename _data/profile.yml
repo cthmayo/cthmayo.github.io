@@ -43,13 +43,13 @@ portrait_url: /assets/images/photos/portrait.jpg
 
 education:
   - name: "University of Waikato"
-    logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/waik_logo.png
     position: >-
       Master of Science (Research) in Artificial Intelligence
     date: "2025 - 2026"
 
   - name: "University of Auckland"
-    logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/auck_logo.png
     position: >-
       Bachelor of Medicine and Bachelor of Surgery (MBChB)
     date: "2017 - 2022"
