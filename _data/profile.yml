@@ -56,13 +56,13 @@ education:
 
 experience:
   - name: "Te Whatu Ora | Health New Zealand"
-    logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/hnz_logo.png
     position: >-
       Data Science Fellow
     date: "2025 - present"
 
   - name: "Te Whatu Ora | Health New Zealand"
-    logo: /assets/images/badges/MIT_Social_circle.png
+    logo: /assets/images/badges/hnz_logo.png
     position: >-
       House Officer, Waikato Hospital
     date: "2023 - 2025"
