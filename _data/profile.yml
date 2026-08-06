@@ -18,9 +18,8 @@ linkedin: christopher-mayo-72b627243
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a medical doctor and data scientist specialising in the development and
-    evaluation of machine learning methods for healthcare. I am currently a Data
-    Science Fellow at Te Whatu Ora (Health New Zealand) and have recently completed a
+    I am a medical doctor and data scientist specialising in machine learning methods for healthcare.
+    I am currently a Data Science Fellow at Te Whatu Ora (Health New Zealand) and have recently completed a
     Master of Science (Research) in Artificial Intelligence at the University of
     Waikato. I am an incoming PhD student and Woolf Fisher scholar at the University
     of Cambridge.
@@ -45,17 +44,6 @@ education:
     position: >-
       Bachelor of Medicine and Bachelor of Surgery (MBChB)
     date: "2017 - 2022"
-
-experience:
-  - name: "Te Whatu Ora | Health New Zealand"
-    position: >-
-      Data Science Fellow
-    date: "2025 - present"
-
-  - name: "Te Whatu Ora | Health New Zealand"
-    position: >-
-      House Officer
-    date: "2023 - 2025"
 
 awards:
   - name: "Woolf Fisher Scholarship"
