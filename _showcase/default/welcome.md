@@ -42,8 +42,7 @@ date: 2026-08-06 00:01:00 +1200
 
   <h4>Multimodal Machine Learning for Glaucoma Risk Prediction</h4>
   <p>
-    My medical elective project developed a <a href=https://github.com/cthmayo/multimodal-glaucoma> multimodal machine-learning model </a>
-    for predicting the risk of primary open-angle glaucoma. This work was
+    My medical elective project developed a <a href="https://github.com/cthmayo/multimodal-glaucoma"> multimodal machine-learning model</a> for predicting the risk of primary open-angle glaucoma. This work was
     completed as an honours-equivalent dissertation at the University of
     Auckland and presented at the 2022 Glaucoma New Zealand Professional
     Symposium.
@@ -67,7 +66,7 @@ date: 2026-08-06 00:01:00 +1200
   <h4>Prediction of Multidrug-Resistant Organisms</h4>
   <p>
     At the 2023 Hack Aotearoa healthcare datathon, I contributed to a project
-    developing models to <a href=https://github.com/cthmayo/hack-aotearoa-2023> predict multidrug-resistant organisms </a> from clinical
+    developing models to <a href="https://github.com/cthmayo/hack-aotearoa-2023"> predict multidrug-resistant organisms</a> from clinical
     data. The project received the awards for Best Overall and Most
     Reproducible.
   </p>
@@ -90,6 +89,6 @@ date: 2026-08-06 00:01:00 +1200
 
   <p class="mb-0">
     Further details and research outputs are available through my
-    <a href=https://scholar.google.com/citations?user=79mNYcgAAAAJ>Google Scholar profile</a>.
+    <a href="https://scholar.google.com/citations?user=79mNYcgAAAAJ">Google Scholar profile</a>.
   </p>
 </div>
