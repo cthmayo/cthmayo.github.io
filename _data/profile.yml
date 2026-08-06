@@ -3,7 +3,7 @@ secondary_name: ""
 navbar_name: "Christopher Mayo"
 
 positions:
-  - name: "Data Science Fellow, Te Whatu Ora | Health New Zealand"
+  - name: "Medical Doctor and Data Scientist"
   - name: "Incoming PhD Student, University of Cambridge"
 
 email: "cthm1@students.waikato.ac.nz"
@@ -18,15 +18,21 @@ linkedin: christopher-mayo-72b627243
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a medical doctor and data scientist specialising in machine learning methods for healthcare.
-    I am currently a Data Science Fellow at Te Whatu Ora (Health New Zealand) and have recently completed a
-    Master of Science (Research) in Artificial Intelligence at the University of
-    Waikato. I am an incoming PhD student and Woolf Fisher scholar at the University
-    of Cambridge.
+    I am a medical doctor and data scientist specialising in machine learning
+    for healthcare. I currently work as a Data Science Fellow at Te Whatu Ora
+    | Health New Zealand and am an incoming PhD student and Woolf Fisher Scholar
+    at the University of Cambridge.
   </p>
   <p>
-    My research interests include multimodal machine learning, risk prediction,
-    causal machine learning, and signal/image processing for healthcare.
+    Before moving into full-time research and data science, I worked clinically
+    as a house officer at Waikato Hospital. My clinical experience included
+    haematology, orthopaedics, general surgery, respiratory medicine, public
+    health, and cardiothoracic surgery.
+  </p>
+  <p>
+    My research interests include multimodal machine learning, clinical risk
+    prediction, causal machine learning, and physiological signal and medical
+    image processing.
   </p>
 
 portrait_url: /assets/images/photos/portrait.jpg
@@ -45,9 +51,28 @@ education:
       Bachelor of Medicine and Bachelor of Surgery (MBChB)
     date: "2017 - 2022"
 
+experience:
+  - name: "Te Whatu Ora | Health New Zealand"
+    logo: /assets/images/badges/MIT_Social_circle.png
+    position: >-
+      Data Science Fellow
+    date: "2025 - present"
+
+  - name: "Te Whatu Ora | Health New Zealand"
+    logo: /assets/images/badges/MIT_Social_circle.png
+    position: >-
+      House Officer, Waikato Hospital
+    date: "2023 - 2025"
+
 awards:
   - name: "Woolf Fisher Scholarship"
     date: "2026"
 
-  - name: "Prime Minister's Award for Academic Excellence"
+  - name: "University of Waikato Research Masters Scholarship"
+    date: "2025"
+
+  - name: "Eric Hector Goodfellow Memorial Prize for First in Course for MBChB Years II and III"
+    date: "2019"
+
+  - name: "NZQA Prime Minister's Award for Academic Excellence"
     date: "2016"
