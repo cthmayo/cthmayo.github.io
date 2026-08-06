@@ -13,7 +13,7 @@ date: 2026-08-06 00:01:00 +1200
     multimodal machine learning, clinical risk prediction, causal machine learning,
     and physiological signal and medical image processing. I have also been the lead
     biostatistician on a variety of medical research projects in fields ranging from
-    diabetes pharmacoepidemiology and orthopaedic surgery. 
+    diabetes pharmacoepidemiology to orthopaedic surgery. 
   </p>
 
   <hr />
