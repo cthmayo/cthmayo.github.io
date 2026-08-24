@@ -27,7 +27,8 @@ date: 2026-08-06 00:01:00 +1200
     electroencephalography. The project included EEG signal processing,
     unsupervised machine learning, supervised machine learning, and the development
     of a novel nonlinear mixed-effects model combining machine learning with
-    pharmacodynamic modelling techniques.
+    pharmacodynamic modelling techniques. The thesis is available on
+    the <a href="https://github.com/cthmayo/multimodal-glaucoma">University of Waikato research commons</a>.
   </p>
 
   <h4>Causal Machine Learning for Advanced Recovery Room Care</h4>
