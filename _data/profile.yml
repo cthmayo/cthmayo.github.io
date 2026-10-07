@@ -4,7 +4,7 @@ navbar_name: "Christopher Mayo"
 
 positions:
   - name: "Medical Doctor and Data Scientist"
-  - name: "Incoming PhD Student, University of Cambridge"
+  - name: "PhD Student, University of Cambridge"
 
 email: "cthm2@cam.ac.uk"
 # cv_link: /assets/files/Christopher_Mayo_CV.pdf
@@ -19,15 +19,15 @@ short_bio_text_justify: false
 short_bio: >-
   <p>
     I am a medical doctor and data scientist specialising in machine learning
-    for healthcare. I currently work as a Data Science Fellow at Te Whatu Ora
-    | Health New Zealand and am an incoming PhD student and Woolf Fisher Scholar
+    for healthcare. I am a PhD student and Woolf Fisher Scholar
     at the University of Cambridge.
   </p>
   <p>
     Before moving into full-time research and data science, I worked clinically
     as a house officer at Waikato Hospital. My clinical experience included
     haematology, orthopaedics, general surgery, respiratory medicine, public
-    health, and cardiothoracic surgery.
+    health, and cardiothoracic surgery. I also worked as a data science fellow
+    working on health AI evaluation pipelines at Te Whatu Ora.
   </p>
   <p>
     My <a href="showcase.html">research interests</a> include multimodal machine learning, clinical risk
@@ -42,6 +42,12 @@ portrait_url: /assets/images/photos/portrait.jpg
 # portrait_caption: "Christopher Mayo"
 
 education:
+  - name: "University of Cambridge"
+    logo: /assets/images/badges/cam_logo.png
+    position: >-
+      PhD in Applied Mathematics
+    date: "2026 - Present"
+
   - name: "University of Waikato"
     logo: /assets/images/badges/waik_logo.png
     position: >-
@@ -59,7 +65,7 @@ experience:
     logo: /assets/images/badges/hnz_logo.png
     position: >-
       Data Science Fellow
-    date: "2025 - present"
+    date: "2025 - 2026"
 
   - name: "Te Whatu Ora | Health New Zealand"
     logo: /assets/images/badges/hnz_logo.png
